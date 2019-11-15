@@ -35,7 +35,7 @@ My steps were as follows:
 ### Astronomical Objects App
 This story was to develop a new function as a part of the wikis app that utilized beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-base) that information with clickable links of the front end of the project.
 
-   #Astronomical Objects Function
+    #Astronomical Objects Function
     def objects(request):
        #use requests module to get the wikipedia page
        page = requests.get("https://en.wikipedia.org/wiki/Lists_of_astronomical_objects")
@@ -145,9 +145,9 @@ This story was to develop a new function as a part of the wikis app that utilize
 
 
 ### Astronomical Base
-<xmp>
-<!-- Astronomical Objects section -->
-<section id="extraction" class="about-section text-center">
+
+          <!-- Astronomical Objects section -->
+          <section id="extraction" class="about-section text-center">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto">
@@ -225,7 +225,7 @@ This story was to develop a new function as a part of the wikis app that utilize
       <div class="row justify-content-left">
         <!--Star Clusters-->
         <div>
-</xmp>
+
 
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
