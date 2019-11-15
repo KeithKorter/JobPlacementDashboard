@@ -34,7 +34,7 @@ My steps were as follows:
 * [Astronomical Objects Base](#astronomical-objects-base)
 
 ### Astronomical Objects App
-This story was to develop a new function as a part of the wikis app that utilized Beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-base) that information with clickable links of the front end of the project.
+This story was to develop a new function as a part of the wikis app that utilized Beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-objects-base) that information with clickable links of the front end of the project.
 
     #Astronomical Objects Function
     def objects(request):
