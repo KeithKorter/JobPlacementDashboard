@@ -145,7 +145,9 @@ This story was to develop a new function as a part of the wikis app that utilize
 
 
 ### Astronomical Base
-![Story 1](/images/wikitemplates.jpg)
+Part of making the new function included creating a new base template to render the information obtained from my function to properly display on the front end
+
+![Story 1](/images/templates.jpg)
 
           <!-- Astronomical Objects section -->
           <section id="extraction" class="about-section text-center">
