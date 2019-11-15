@@ -1,7 +1,7 @@
 # Live Project
 
 ## Introduction
-For the last two weeks of my time at the tech academy, I worked with my peers in a team developing a full scale Web site utilizing Python, Django, Beautifulsoup, and HTML. Working on a project that involved a larger team was a great learning oppertunity for collaborating, problem solving, cleaning up code, and adding requested features. I was able to see how other developers wrote code and could compare tequniques. I started with [back end cleanup](#back-end-cleanup) which allowed me to get familiar with the project and functionality of the site. Once more familiar with the working environment, I transistoned into developing [new apps/functions](#new-app) and then intergrating them into the front end for user enjoyment. This process involved me utilizing modules that were unfamiliar with me at the time, but by exploring the documentation and bouncing questions off my peers, I was able to quickly adapt with tact and resiliance. Over the two week sprint I also had the opportunity to devlope other non-coding [skills](#other-skills-learned) that I could utilize in the software development project management work environment. I'm confident I will use the skills again and again on future projects.
+For the last two weeks of my time at the tech academy, I worked with my peers in a team developing a full scale Web site utilizing Python, Django, Beautifulsoup, and HTML. Working on a project that involved a larger team was a great learning opportunity for collaborating, problem solving, cleaning up code, and adding requested features. I was able to see how other developers wrote code and could compare techniques. I started with [back end cleanup](#back-end-cleanup) which allowed me to get familiar with the project and functionality of the site. Once more familiar with the working environment, I transitioned into developing [new apps/functions](#new-app) and then integrating them into the front end for user enjoyment. This process involved me utilizing modules that were unfamiliar with me at the time, but by exploring the documentation and bouncing questions off my peers, I was able to quickly adapt with tact and resilience. Over the two week sprint I also had the opportunity to develop other non-coding [skills](#other-skills-learned) that I could utilize in the software development project management work environment. I'm confident I will use the skills again and again on future projects.
   
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.
 
@@ -13,17 +13,17 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 
 
 ### New Consolidated App
-The wiki apps, Mining wiki, Wiki, and Glossary were spread out into different sections of the project. I consolidated them into a new app, approaptley names Wikis. I also crested new templates for the HTML side of the app to display.
+The wiki apps, Mining wiki, Wiki, and Glossary were spread out into different sections of the project. I consolidated them into a new app, appropriately names Wikis. I also crested new templates for the HTML side of the app to display.
 
 ![Story 1](/images/story1.jpg)
 
 
 
  ### Deprecate Webpages
-I was tasked with deprecating the ‘Webpages’ section of the project and ensuring any liks were redirected. This also involved removing any refrences to the old ‘Data Sciences’ section of the project. 
+I was tasked with deprecating the ‘Webpages’ section of the project and ensuring any links were redirected. This also involved removing any references to the old ‘Data Sciences’ section of the project. 
 My steps were as follows:
 
-1) Remove all url references from our landing pages (home, apis, wiki, etc) to the webpages and make sure instead they reference the index page of the appropriate app. Replace the references to Data Science with references to My Location Data (like in the nav bar drop down). 
+1) Remove all URL references from our landing pages (home, APIs, wiki, etc.) to the webpages and make sure instead they reference the index page of the appropriate app. Replace the references to Data Science with references to My Location Data (like in the nav bar drop down). 
 2) Comment out the appropriate code from the main the_spacebar files, like the urls.py file and the settings file
 3) Delete the webpages app folder
 4) Run the program and test that there are no broken links or errors
@@ -34,7 +34,7 @@ My steps were as follows:
 * [Astronomical Objects Base](#astronomical-objects-base)
 
 ### Astronomical Objects App
-This story was to develop a new function as a part of the wikis app that utilized beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-base) that information with clickable links of the front end of the project.
+This story was to develop a new function as a part of the wikis app that utilized Beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-base) that information with clickable links of the front end of the project.
 
     #Astronomical Objects Function
     def objects(request):
@@ -235,9 +235,10 @@ Part of making the new function included creating a new base template to render 
 *Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
 ## Other Skills Learned
-* Working with a group of developers to collbrativly develop a large project with many sub sections.
+* Working with a group of developers to collaboratively develop a large project with many sub sections.
 * Improving project flow by communicating expectations and difficulties.
 * Learning new efficiencies from other developers by observing their workflow and asking questions and reviewing their code. 
-* Learning new modules that were otherwise forign to me such as Beautifulsoup, and reviewing the documentation to get the desired outcome for my fuctions.
+* Learning new modules that were otherwise foreign to me such as Beautifulsoup, and reviewing the documentation to get the desired outcome for my functions.
   
 *Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
+
