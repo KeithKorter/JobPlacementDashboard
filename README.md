@@ -16,7 +16,7 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 The wiki apps, Mining wiki, Wiki, and Glossary were spread out into different sections of the project. I consolidated them into a new app, approaptley names Wikis. I also crested new templates for the HTML side of the app to display.
 
 ![Story 1](/images/story1.jpg)
-Format: ![Alt Text](url)
+
 
 
  ### Deprecate Webpages
