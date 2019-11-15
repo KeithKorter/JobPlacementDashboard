@@ -31,6 +31,7 @@ My steps were as follows:
 
 ## New App
 * [Astronomical Objects App](#astronomical-objects-app)
+* [Astronomical Objects Base](#astronomical-objects-base)
 
 ### Astronomical Objects App
 This story was to develop a new function as a part of the wikis app that utilized beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-base) that information with clickable links of the front end of the project.
@@ -144,7 +145,7 @@ This story was to develop a new function as a part of the wikis app that utilize
     return render(request, 'wikis/objects_index.html', context)
 
 
-### Astronomical Base
+### Astronomical Objects Base
 Part of making the new function included creating a new base template to render the information obtained from my function to properly display on the front end
 
 ![Story 1](/images/templates.jpg)
