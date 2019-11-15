@@ -230,7 +230,7 @@ Part of making the new function included creating a new base template to render 
         <div>
 
 
-*Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
+*Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
 ## Other Skills Learned
 * Working with a group of developers to collbrativly develop a large project with many sub sections.
@@ -238,4 +238,4 @@ Part of making the new function included creating a new base template to render 
 * Learning new efficiencies from other developers by observing their workflow and asking questions and reviewing their code. 
 * Learning new modules that were otherwise forign to me such as Beautifulsoup, and reviewing the documentation to get the desired outcome for my fuctions.
   
-*Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
+*Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
