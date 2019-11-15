@@ -145,7 +145,7 @@ def objects(request):
 
 
 ### Astronomical Base
-
+<xmp>
 <!-- Astronomical Objects section -->
 <section id="extraction" class="about-section text-center">
     <div class="container">
@@ -225,7 +225,7 @@ def objects(request):
       <div class="row justify-content-left">
         <!--Star Clusters-->
         <div>
-
+</xmp>
 
 *Jump to: [Front End Stories](#front-end-stories), [Back End Stories](#back-end-stories), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
