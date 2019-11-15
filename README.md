@@ -35,11 +35,11 @@ My steps were as follows:
 ### Astronomical Objects App
 This story was to develop a new function as a part of the wikis app that utilized beautifulsoup by obtaining information from the ‘Astronomical Objects’ section of a Wikipedia page, then [displayed](#astronomical-base) that information with clickable links of the front end of the project.
 
-#Astronomical Objects Function
-def objects(request):
-    #use requests module to get the wikipedia page
-    page = requests.get("https://en.wikipedia.org/wiki/Lists_of_astronomical_objects")
-    soup = BeautifulSoup(page.content, 'html.parser')
+   #Astronomical Objects Function
+    def objects(request):
+       #use requests module to get the wikipedia page
+       page = requests.get("https://en.wikipedia.org/wiki/Lists_of_astronomical_objects")
+       soup = BeautifulSoup(page.content, 'html.parser')
 
     #get the section title
     textTitle = soup.find('h1').get_text()
