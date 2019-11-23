@@ -1,7 +1,7 @@
 # the_spacebar
 
 ## Introduction
-During my internship with Prosper I.T. Consulting, I worked with my peers in a team developing a full scale web-site utilizing Python, Django, Beautifulsoup, Javascript, and HTML. Working on a project that involved a larger team was a great learning opportunity for collaborating, problem solving, cleaning up code, and adding requested features. I was able to see how other developers wrote code and could compare techniques. I started with [back end cleanup](#back-end-cleanup) which allowed me to get familiar with the project and functionality of the site. Once more familiar with the working environment, I transitioned into developing [new apps/functions](#new-app) and then integrating them into the front end for user enjoyment. This process involved me utilizing modules that were unfamiliar with me at the time, but by exploring the documentation and bouncing questions off my peers, I was able to quickly adapt with tact and resilience. Over the two week sprint I also had the opportunity to develop other non-coding [skills](#other-skills-learned) that I could utilize in the software development project management work environment. I'm confident I will use the skills again and again on future projects.
+During my internship with Prosper I.T. Consulting, I worked with my peers in a team developing a full scale web-site utilizing Python, Django, Beautifulsoup, Javascript, and HTML. Working on a project that involved a larger team was a great learning opportunity for collaborating, problem solving, cleaning up code, and adding requested features. I was able to see how other developers wrote code and could compare techniques. I started with [back end cleanup](#back-end-cleanup) which allowed me to get familiar with the project and functionality of the site. Once more familiar with the working environment, I transitioned into developing [new apps/functions](#new-app) and then integrating them into the front end for user enjoyment. This process involved me utilizing modules that were unfamiliar with me at the time, but by exploring the documentation and bouncing questions off my peers, I was able to quickly adapt with tact and resilience. Over the two week sprint I also had the opportunity to develop other non-coding [skills](#other-skills) that I could utilize in the software development project management work environment. I'm confident I will use the skills again and again on future projects.
   
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.
 
@@ -232,7 +232,7 @@ Part of making the new function included creating a new base template to render 
         <div>
 
 
-*Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
+*Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills), [Page Top](#live-project)*
 
 ## Other Skills
 * Working with a group of developers to collaboratively develop a large project with many sub sections.
@@ -240,5 +240,5 @@ Part of making the new function included creating a new base template to render 
 * Learning new efficiencies from other developers by observing their workflow and asking questions and reviewing their code. 
 * Learning new modules that were otherwise foreign to me such as Beautifulsoup, and reviewing the documentation to get the desired outcome for my functions.
   
-*Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
+*Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills), [Page Top](#live-project)*
 
