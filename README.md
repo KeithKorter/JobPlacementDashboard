@@ -234,7 +234,7 @@ Part of making the new function included creating a new base template to render 
 
 *Jump to: [Back End Cleanup](#back-end-cleanup), [Astronomical Objects App](#new-app), [Other Skills](#other-skills-learned), [Page Top](#live-project)*
 
-## Other Skills Learned
+## Other Skills
 * Working with a group of developers to collaboratively develop a large project with many sub sections.
 * Improving project flow by communicating expectations and difficulties.
 * Learning new efficiencies from other developers by observing their workflow and asking questions and reviewing their code. 
